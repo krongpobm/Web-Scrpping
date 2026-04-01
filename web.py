@@ -11,6 +11,8 @@ def parse_company_info(text: str) -> dict:
     """Parse card_0: general company information (key-value pairs on alternating lines)."""
     lines = [l.strip() for l in text.splitlines() if l.strip()]
     info = {}
+
+    
     # Known labels in order
     labels = [
         "ประเภทนิติบุคคล", "สถานะนิติบุคคล", "วันที่จดทะเบียนจัดตั้ง",
