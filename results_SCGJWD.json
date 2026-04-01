@@ -1,0 +1,55 @@
+{
+  "success": true,
+  "keyword": "SCGJWD",
+  "total": 3,
+  "companies": [
+    {
+      "no": "1",
+      "regNo": "0105554031101",
+      "companyNameTh": "เอสซีจี เจดับเบิ้ลยูดี อะคาเดมี จำกัด",
+      "companyType": "บริษัทจำกัด",
+      "status": "ยังดำเนินกิจการอยู่",
+      "businessCode": "85499",
+      "businessName": "การศึกษาอื่นๆซึ่งมิได้จัดประเภทไว้ในที่อื่น",
+      "province": "กรุงเทพมหานคร",
+      "registeredCapital": "70,000,000.00",
+      "totalRevenue": "194,912,131.00",
+      "netProfit": "4,111,033.00",
+      "totalAssets": "81,935,676.00",
+      "shareholderEquity": "31,656,799.00",
+      "profileUrl": "https://datawarehouse.dbd.go.th/company/profile/0105554031101"
+    },
+    {
+      "no": "2",
+      "regNo": "0105567233336",
+      "companyNameTh": "เอสซีจี เจดับเบิ้ลยูดี เฟรท จำกัด",
+      "companyType": "บริษัทจำกัด",
+      "status": "ยังดำเนินกิจการอยู่",
+      "businessCode": "52292",
+      "businessName": "กิจกรรมของตัวแทนผู้รับจัดการขนส่งสินค้าและตัวแทนออกของ (ตัวแทนดำเนินพิธีการศุลกากร)",
+      "province": "กรุงเทพมหานคร",
+      "registeredCapital": "20,000,000.00",
+      "totalRevenue": "1,096.00",
+      "netProfit": "-49,411.00",
+      "totalAssets": "5,000,589.00",
+      "shareholderEquity": "4,950,589.00",
+      "profileUrl": "https://datawarehouse.dbd.go.th/company/profile/0105567233336"
+    },
+    {
+      "no": "3",
+      "regNo": "0107557000306",
+      "companyNameTh": "เอสซีจี เจดับเบิ้ลยูดี โลจิสติกส์ จำกัด (มหาชน)",
+      "companyType": "บริษัทมหาชนจำกัด",
+      "status": "ยังดำเนินกิจการอยู่",
+      "businessCode": "52291",
+      "businessName": "กิจกรรมการบริหารจัดการด้านการขนส่งและสถานที่เก็บสินค้า",
+      "province": "กรุงเทพมหานคร",
+      "registeredCapital": "905,510,153.00",
+      "totalRevenue": "16,842,131,409.00",
+      "netProfit": "540,929,189.00",
+      "totalAssets": "35,882,092,329.00",
+      "shareholderEquity": "21,861,732,714.00",
+      "profileUrl": "https://datawarehouse.dbd.go.th/company/profile/0107557000306"
+    }
+  ]
+}
